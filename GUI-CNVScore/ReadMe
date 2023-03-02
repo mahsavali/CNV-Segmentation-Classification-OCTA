@@ -1,3 +1,17 @@
+#ReadMe Software
+
+1. Put your images into the folder "images"
+2. Open excel file "UsersList.xls" and read or edit the usernames and passwords
+3. Click On "Start"
+4. Go to "Select User"
+5. Click on "Set Up"
+6. Input the related Password in the dialogbox
+7. Click on "Load Image" to browse the folder directory of the images
+8. Use "Previuos" and "Next" to see the pictures
+9. Change Scores using the related checkboxes
+10. Close software using "Close"
+
+=================================================================================
 CNVscore Executable
 
 1. Prerequisites for Deployment 
