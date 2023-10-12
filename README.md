@@ -4,7 +4,7 @@
 The study discusses previous AI studies related to age-related macular degeneration (AMD), particularly those analyzing OCTA images. While these studies have shown promise, the current research focuses on addressing some of their limitations.
 
 The current study aimed to develop an AI-based algorithm for the segmentation and classification of Choroidal Neovascularization (CNV) activity in Optical Coherence Tomography Angiography (OCTA) images. The algorithm consists of two main components: 1) a modified U-Net network for CNV segmentation, and 2) five binary classification networks for assessing specific CNV activity criteria using Deep Learning models, incorporating transfer learning.
-
+![Alt Text](https://www.mdpi.com/diagnostics/diagnostics-13-01309/article_deploy/html/images/diagnostics-13-01309-g002.png)
 ## Methodology & Results
 The segmentation network achieved an average Dice coefficient of 0.90 across all images, with a minimum individual image performance of 0.61. Individual classifiers for the five activity criteria showed accuracies ranging from 0.81 to 0.86.
 
